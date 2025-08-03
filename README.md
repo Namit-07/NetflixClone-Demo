@@ -42,6 +42,9 @@ Through this project, I strengthened my understanding of:
 
 ---
 
+## 🔥 Features
+Website link: https://namit-07.github.io/NetflixClone-Demo/
+
 ## 👨‍💻 Author
 
 **Namit Tickoo**  
