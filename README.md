@@ -42,7 +42,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-## 🔥 Features
+## 🔥 CheckitOut
 Website link: https://namit-07.github.io/NetflixClone-Demo/
 
 ## 👨‍💻 Author
